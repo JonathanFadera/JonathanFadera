@@ -1,4 +1,4 @@
-# Hello, World! 👋 🌎 I'm Jonathan Fadera
+# Hi! 👋 🌎 It's me. :)
 
 I'm thrilled to share that I've recently graduated from the prestigious [University of California Berkeley Full Stack Developer Bootcamp](https://bootcamp.berkeley.edu/coding/)! An incredible 24-week journey has allowed me to grow tremendously as a developer and delve deep into technologies like HTML, CSS, JavaScript, Node.js, Handlebars, MySQL, Inquirer, Express, and MongoDB, with a special focus on React lately.
 
