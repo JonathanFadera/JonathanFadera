@@ -20,11 +20,8 @@ Thank you all for being a part of my journey. I'm excited for what the future ho
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanFadera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanFadera)](https://git.io/streak-stats)
 
 ## Contact 📧
 
-You can reach me at [LinkedIn](www.linkedin.com/in/jonathan-fadera-b92a9627b) or via email - ericsonhnc@gmail.com
+You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathan-fadera-b92a9627b/) or via email - ericsonhnc@gmail.com
