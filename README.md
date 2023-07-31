@@ -25,4 +25,4 @@ Thank you all for being a part of my journey. I'm excited for what the future ho
 
 ## Contact 📧
 
-You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathan-fadera-b92a9627b/) or via email - ericsonhnc@gmail.com
+You can reach me at [LinkedIn](https://www.linkedin.com/in/jonathanfadera) or via email - ericsonhnc@gmail.com
